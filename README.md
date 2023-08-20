@@ -1,2 +1,2 @@
-# exercicios
-resolução dos exercicios: EtecAB, Haikai, Pastorzinho
+# exercicio 
+resolucao do exercicio "Faça um programa que exiba o nome da sua escola: Etec Adolpho Berezin".
